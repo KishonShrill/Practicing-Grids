@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+header {
+  display: flex;
+  height: 8vh;
+  width: 100%;
+  background: grey;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header > div{
+  display: flex;
+  padding: 10px;
+
+}
+
+#header-links{
+  gap:10px;
+}
